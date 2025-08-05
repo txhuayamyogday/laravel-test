@@ -14,7 +14,7 @@ Route::get('dashboard', function () {
 require __DIR__.'/settings.php';
 require __DIR__.'/auth.php';
 
-// hello reqiument the laravel project 
+// hello requirement the laravel project123
 
 
 //hello laravel test
