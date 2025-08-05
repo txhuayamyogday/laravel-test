@@ -14,7 +14,4 @@ Route::get('dashboard', function () {
 require __DIR__.'/settings.php';
 require __DIR__.'/auth.php';
 
-// hello requirement the laravel project123
-
-
-//hello laravel test
+// update project the rout of customer A,B,C
